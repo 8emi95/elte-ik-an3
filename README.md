@@ -1,2 +1,2 @@
 # elte-ik-an3
-  (ELTE-IK 2008-as tanterv)
+Analízis 3 (ELTE-IK 2008-as tanterv)
